@@ -1,4 +1,4 @@
-
+/*
 ////////////////////////////////////
 // Linking a JavaScript File
 let js = "amazing";
@@ -113,7 +113,7 @@ console.log(x, y);
 
 const averageAge = (ageJonas + ageSarah) / 2;
 console.log(ageJonas, ageSarah, averageAge);
-
+*/
 
 ////////////////////////////////////
 // Coding Challenge #1
@@ -136,7 +136,7 @@ GOOD LUCK 😀
 // const massJohn = 92;
 // const heightJohn = 1.95;
 
-/*
+
 const massMark = 95;
 const heightMark = 1.88;
 const massJohn = 85;
@@ -192,7 +192,7 @@ if (birthYear <= 2000) {
   century = 21;
 }
 console.log(century);
-*/
+
 
 ////////////////////////////////////
 // Coding Challenge #2
