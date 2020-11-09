@@ -1,4 +1,4 @@
-/*
+
 ////////////////////////////////////
 // Linking a JavaScript File
 let js = "amazing";
@@ -113,7 +113,7 @@ console.log(x, y);
 
 const averageAge = (ageJonas + ageSarah) / 2;
 console.log(ageJonas, ageSarah, averageAge);
-*/
+
 
 ////////////////////////////////////
 // Coding Challenge #1
