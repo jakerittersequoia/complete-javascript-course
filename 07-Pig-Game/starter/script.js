@@ -82,8 +82,6 @@ btnHold.addEventListener('click',function(){
   }
 });
 
-btnNew.addEventListener('click',function(){
-  newGame();
-});
+btnNew.addEventListener('click', newGame());
 
 newGame();
